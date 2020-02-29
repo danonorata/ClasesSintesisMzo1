@@ -1,0 +1,69 @@
+/* Contenedor Padre */
+.header-container{ 
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: green;
+}
+
+.img-header{
+    display: flex;
+    height: 100px;
+    width: 30%;
+}
+
+.barnav-container
+
+/* Contenedor Padre */
+.main-container{ 
+    display: flex;
+    height: 1000px;
+    width: 100%;
+    background-color: red;
+}
+
+.section-container{
+    height: 2000px;
+    width: 100%;
+    background-color: blue;
+}
+
+.titulo-container
+
+.articule-container
+
+.subtitulo-container
+
+.img-articule
+
+.img2-articule
+
+.img3-articule
+
+.aside-container
+
+.container-img-aside
+
+.img4
+
+.blockquote-container
+
+/* Contenedor Padre */
+.footer-container{ 
+    display: flex;
+    height: 1000px;
+    width: 100%;
+    background-color: red;
+}
+
+.container-img-footer
+
+.img5
+
+.container-form
+
+.buttom
+
+.container-Nosotros
+
+/* INSERTAR MEDIA QUERIES */
